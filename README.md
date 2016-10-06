@@ -1,2 +1,2 @@
 # Half-Life 2: Sandbox
-A free and open-source sandbox SourceMod plugin.
+A free open-source plugin built on-top of the SourceMod API
